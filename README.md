@@ -1,4 +1,5 @@
 # Derek Baker README
+_Associate Software Engineer_
 
 ## Purpose of this document
 Communication is hard, but effective communication is one of _the_ most important factors for a healthy team. This document provides an insight into my mind, and how I work.
